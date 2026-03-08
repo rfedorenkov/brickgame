@@ -1,11 +1,18 @@
-# Brickgame
+# Brickgame (Tetris)
 
-Классический Тетрис, написанный на языке Си.
+A simple implementation of the classic **Tetris game** written in C.
 
-## 🛠 Сборка и запуск
-Проект собирается с помощью утилиты `make`.
+## Features
 
-Компиляция проекта:
-   ```bash
-   make install
-   ```
+- Classic Tetris gameplay
+- Piece rotation
+- Line clearing
+- Score system
+- Console / simple graphical interface
+
+## How to Run
+
+### Compile
+
+```bash
+make install
